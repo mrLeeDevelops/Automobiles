@@ -1,0 +1,13 @@
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\Automobiles\Automobiles\bin\Debug\netcoreapp3.1\Automobiles.exe
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\Automobiles\Automobiles\bin\Debug\netcoreapp3.1\Automobiles.deps.json
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\Automobiles\Automobiles\bin\Debug\netcoreapp3.1\Automobiles.runtimeconfig.json
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\Automobiles\Automobiles\bin\Debug\netcoreapp3.1\Automobiles.runtimeconfig.dev.json
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\Automobiles\Automobiles\bin\Debug\netcoreapp3.1\Automobiles.dll
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\Automobiles\Automobiles\bin\Debug\netcoreapp3.1\Automobiles.pdb
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\Automobiles\Automobiles\obj\Debug\netcoreapp3.1\Automobiles.csproj.AssemblyReference.cache
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\Automobiles\Automobiles\obj\Debug\netcoreapp3.1\Automobiles.AssemblyInfoInputs.cache
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\Automobiles\Automobiles\obj\Debug\netcoreapp3.1\Automobiles.AssemblyInfo.cs
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\Automobiles\Automobiles\obj\Debug\netcoreapp3.1\Automobiles.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\Automobiles\Automobiles\obj\Debug\netcoreapp3.1\Automobiles.dll
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\Automobiles\Automobiles\obj\Debug\netcoreapp3.1\Automobiles.pdb
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\Automobiles\Automobiles\obj\Debug\netcoreapp3.1\Automobiles.genruntimeconfig.cache
